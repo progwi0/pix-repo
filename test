@@ -1,4 +1,0 @@
-#!/bin/sh
-. /etc/os-release
-
-echo "This is program for test Pix. Btw, your distro is $PRETTY_NAME!"
